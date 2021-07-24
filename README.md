@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R4tmax
 - 👀 I’m interested in the world of IT, I started my CompSci Studies in 2019, when I wrote my first couple of codes, and I´ve been working on myself ever since.
 - 🌱 I’m currently learning HTML5 and everything that comes with it, Python, C++.
-- 💞️ 
+- 💞️ One of the primary uses for my GitHub is organization of my personal/former school projects.
 - 📫 
 
 <!---
